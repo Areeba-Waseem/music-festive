@@ -1,0 +1,263 @@
+@font-face {
+    font-family: kaushan;
+    src: url(bada.otf.otf);
+   }
+   @font-face {
+    font-family: Myfont;
+    src: url("./FONTS/DeltaBlock-Regular.ttf");}
+   @font-face {
+    font-family: up;
+    src: url("./FONTS/Nowharehouse.ttf")
+   }
+   @font-face {
+    font-family: inside;
+    src: url("./FONTS/heavy\ heap\ rg.otf");
+   }
+   @font-face {
+    font-family: outside;
+    src: url("./FONTS/DeltaBlock-Regular.ttf");
+   }
+   @font-face {
+    font-family: neither;
+    src: url("./FONTS/Jersey\ M54.ttf");
+   }
+   @font-face {
+    font-family: fold;
+    src: url("./FONTS/ace-records/Ace\ Records.ttf");
+   }
+   @font-face {
+    font-family: jkl;
+    src: url("./FONTS/playball/Playball.ttf");
+   }
+body{
+    background-color: rgb(0, 0, 0);
+}
+.box{
+    background-color: rgb(34, 34, 100);
+    padding: 30px;
+     margin: 0px;
+}
+h7{color: aqua;
+    font-size: 50px;
+    text-shadow: -2px -4px rgb(189, 124, 101);
+    font-style: oblique;
+    font-family: Myfont; }
+h8{
+    font-size: 30px;
+    color: black;
+    font-family: kaushan;
+    text-align: right;
+}
+
+.header{
+    padding: 20px;
+    margin: 0px;
+   background-color: rgb(5, 5, 5);
+}
+   
+li.pony{
+    color: aliceblue;
+    display: inline;
+    margin-left: 300px;
+    font-weight: 400;
+    font-size: 30px;
+    position: static;
+    z-index: 100;
+    
+}
+#home{
+    background-image: url("./IDEAS/pic5.jpeg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    padding: 100px;
+}
+.sea{
+    background-color: rgb(36, 5, 66);
+    padding: 5%;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+.same{
+    padding-top:0%;
+    margin-top: 0%;
+    font-size: 100px;
+    font-family:inside;
+    color: rgb(13, 33, 209);
+    text-shadow: -6px 6px cornsilk;
+    text-align: justify;
+    margin-left: 15%;
+}
+.inside{
+    font-size: 60px;
+    font-family:inside;
+    color: white;
+}
+#orange{
+    color: rgb(10, 10, 9);
+    background-color: palegreen;
+    width: 100%;
+    padding: 20px;
+    font-size: medium;
+    font-family:my font ;
+    border-radius: 20px;
+    text-align: center;
+}
+#back{
+    background-image: url("./IDEAS/bg\ cover.webp");
+    background-repeat: no-repeat;
+    background-size: 100%;
+ 
+}
+#first{
+   padding-top: 5%;
+    margin-top: 0%;
+    margin-right: 30%;
+    margin-left: 30%;}
+    
+ h3{
+    padding: 0%;
+    color:rgb(29, 211, 141) ;
+    font-family: outside ;
+    text-align: center;
+    font-size: 80px;
+    margin-right: 30%;
+    margin-left: 30%;
+ }    
+ .diff{
+    color: rgb(173, 186, 192);
+    text-align: center;
+    font-size: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: My font;
+ }
+ #baack{  
+      background-image: url("./IDEAS/bg\ cover.webp");
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+    
+}
+ #second{
+    padding-top: 5%;
+     margin-top: 0%;
+     margin-right: 30%;
+     margin-left: 30%;}
+     
+  h4{
+     padding: 0%;
+     color:rgb(241, 50, 50) ;
+     font-family: neither ;
+     text-align: center;
+     font-size: 100px;
+  }    
+  .deaf{
+     color: rgb(221, 79, 54);
+     text-align: center;
+     font-size: 30px;
+     margin-left: 30%;
+     margin-right: 30%;
+     font-family: inside;
+  }
+  #baaack{  
+    background-image: url("./IDEAS/bg\ cover.webp");
+  background-repeat: no-repeat;
+  background-size: 100%;
+ 
+  
+}
+#third{
+  padding-top: 5%;
+   margin-top: 0%;
+   margin-right: 30%;
+   margin-left: 30%;}
+   
+h5{
+   padding: 0%;
+   color:rgb(130, 255, 98) ;
+   font-family: fold;
+   text-align: center;
+   word-spacing: 5%;
+   font-size: 100px;
+}    
+.deff{
+   color: rgb(39, 180, 157);
+   text-align: center;
+   font-size: 30px;
+   margin-left: 30%;
+   margin-right: 30%;
+   font-family: inside;
+}
+#next,#last{
+    font-size: 50px;
+    text-align: left;
+    padding: 0px;
+    margin: 10%;
+}
+#footer{
+    
+    padding: 100px;
+    text-align: left;
+}
+#tiu{
+    color: beige;
+   margin: 10%;
+line-height: 0.2%;
+font-size: 30px;
+display: flex;
+}
+#logo{
+    margin: 10%;
+    display:grid;
+}
+.end{
+    display:block;
+    margin-left: 10%;
+    width: max-content;
+    line-height: 2cm;
+   font-style: oblique;
+   column-count: 3;
+   column-gap: 20px;
+}
+#ticket{
+    background-image: url("./IDEAS/ticket.webp");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#table{
+    
+        background-color: rgb(157, 91, 223);
+        padding: 5px;
+       margin-right: 30%;
+       margin-left: 30%;
+        font-size: 30px;
+}
+fieldset{
+    margin: 20%;
+}
+#det{
+    color: brown;
+}
+.we{
+    background-color: rgb(255, 95, 95);
+    color: aquamarine;
+    font-family: jkl;
+    columns:2;
+    column-gap: 2%;
+    text-align: center;
+    margin-left: 10%;
+    margin-right:10% ;
+    font-size: larger;
+}
+h2{
+    font-size:50px ;
+    text-align: center;
+    font-family: neither;
+}
+#alb{
+    background-image: url("./IDEAS/line\ up.webp");
+    text-align: center;
+}
+.asd{
+   margin: 20%;
+}
